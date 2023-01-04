@@ -3,7 +3,7 @@ CXX = g++
 AR = ar
 LD = ld
 
-CFLAGS = -g -Wall -I./ -I../
+CFLAGS = -g -std=gnu99 -Wall -I./ -I../
 
 POBJS = 
 
